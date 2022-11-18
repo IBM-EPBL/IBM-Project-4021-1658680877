@@ -1,0 +1,27 @@
+TEAM NAME:The Professionals
+
+TEAM-ID: PNT2022TMID25802
+
+PROJECT TITLE:A Gesture-Based Tool For Sterile Browsing Of Radiology Images.
+
+-----------------------------------------------------------------------------------------------------
+
+Since the upload limit size for GIT is 25mb and the h5 file is exceeding this limit that's why I have given the project link in which,
+
+STEP-1: Click on this link to download the "Gesture.h5" model file.
+
+STEP-2: Then run the flask application App.py file as python App.py in,
+		(1) Command prompt(Windows) 
+		(2) Terminal(Linux)
+		(3) Mac(Apple)
+
+STEP-3: The path to follow for download is,
+	
+	IBM -> A Gesture-Based Tool For Sterile Browsing Of Radiology Images -> Flask -> Gesture.h5
+
+STEP-4: 
+	
+LINK:https://drive.google.com/drive/folders/143VZa1In-RT6T0gfzuIfSRyHcYA2hO4G?usp=sharing
+
+
+
